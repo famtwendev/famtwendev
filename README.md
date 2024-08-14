@@ -85,7 +85,7 @@ Here are some ideas to get you started:
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
   <a href="#" title="famtwendev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
 </div>
 <h3 align="center">
