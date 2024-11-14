@@ -85,11 +85,13 @@ Here are some ideas to get you started:
     <img align="center" width="350" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
   <a href="#" title="famtwendev">
-    <img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    <img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
-  </div>
-  <br>
-  <br>
+</div>
+
+<br>
+<br>
+
 <div align=center>
     <a href="#" title="famtwendev">
     <img align="align" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
