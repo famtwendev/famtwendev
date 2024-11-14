@@ -87,10 +87,12 @@ Here are some ideas to get you started:
   <a href="#" title="famtwendev">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
   </a>
+  </div>
+<div align=center>
     <a href="#" title="famtwendev">
-    <img align="right" width="600" src="github-readme-streak-stats.herokuapp.com/?user=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
-  </a>
-</div>
+    <img align="align" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+</a>
+
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Gmail!;I'm+always+down+to+collab+:)">
 </h3>
