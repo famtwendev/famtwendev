@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div style="display: flex; justify-content: center; align-items: center; gap: 20;">
+<div align="center">
   <a href="#" title="famtwendev">
     <img width="350" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
-  <a href="#" title="famtwendev">
+  <a href="#" title="famtwendev" style="margin-left: 20px;">
     <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
 </div>
