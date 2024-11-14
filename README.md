@@ -82,15 +82,15 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
   <a href="#" title="famtwendev">
-    <img width="400" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <img width="400" height="200" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
   <a href="#" title="famtwendev">
-    <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    <img align="right" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
   </a>
   </div>
 <div align=center>
     <a href="#" title="famtwendev">
-    <img align="align" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+    <img align="align" width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=famtwendev&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
 </a>
 
 <h3 align="center">
